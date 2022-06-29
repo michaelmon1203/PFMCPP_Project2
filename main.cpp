@@ -215,7 +215,7 @@ int main()
     //10)
     auto myInfluence = howManyFollowersDoIHave(800,34);
     
-    ignoreUnused(carRented);
+    ignoreUnused(carRented, laptopBought, myWealth, whichFingerToUse, methodToGoHome, moneyBack, drinkWater, nailTheJob, stringsINeedtoBuy, mixerChannelRequirement, myInfluence);
     std::cout << "good to go!" << std::endl;
     return 0;    
 }
